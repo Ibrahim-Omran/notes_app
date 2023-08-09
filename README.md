@@ -1,6 +1,6 @@
 # Notes App
-- A Flutter Project
+Application for storing text notes
   
-# With :
+## With :
   - cubit (state management )
   - Hive  (Local database )
