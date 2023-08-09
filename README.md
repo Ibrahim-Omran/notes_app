@@ -1,6 +1,6 @@
-*Notes App*
+# Notes App
 - A Flutter Project
   
-With :
+# With :
   - cubit (state management )
   - Hive  (Local database )
